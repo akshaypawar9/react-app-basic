@@ -1,0 +1,29 @@
+/* styles.css */
+
+/* Center the dropdown */
+.dropdown-center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Style the dropdown button */
+  .dropdown-toggle {
+    width: 200px; /* Adjust as needed */
+  }
+  
+  /* Style the dropdown menu */
+  .dropdown-menu {
+    width: 200px; /* Adjust as needed */
+  }
+  
+  /* Style the active item */
+  .dropdown-item.active {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  /* Style the clear button */
+  .clear-btn {
+    margin-top: 10px;
+  }
+  
